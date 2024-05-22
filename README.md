@@ -217,7 +217,7 @@ Now, the accuracy of the model seems to be very good so we can save the model us
 
 ### 7. Model Deployment
 After creating the model, we integrated that model with a beautiful UI. For the UI part, we used HTML, CSS, JS, and Flask.
-![](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/17.png)
+![](https://github.com/SPARSH-JAIN-10/House_Price_Prediction/blob/main/Picture_For_README/17.png)
 
 ### 8. Model Conclusion
 
