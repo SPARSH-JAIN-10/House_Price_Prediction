@@ -243,4 +243,4 @@ b. we will reduce the size of the model using PCA.
 
 
 ### 11. Working Project Video
-![Working Projecct](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/1_Video.gif)
+![Working Projecct](https://github.com/SPARSH-JAIN-10/House_Price_Prediction/blob/main/Picture_For_README/video.gif)
